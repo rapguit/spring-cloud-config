@@ -1,1 +1,2 @@
-config.name: 'remote-repo-config'
+config:
+  name: 'remote-repo-config'
